@@ -1,19 +1,19 @@
 .logpage {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Annie Use Your Telescope, serif;
 	font-size: 100%;
-   	background-color: #FFFFFF;
-   	color: #000000;
+   	background-color: LightCyan;
+   	color: LightCyan;
 	margin: 5px;
    	padding: 5px;
 }
 
 .logpage a:link a:visited a:active {
-	color: #222222;
+	color: LightCyan;
 	text-decoration: underline;
 }
 
 .logpage a:hover {
-	color: #777777;
+	color: LightCyan;
 	text-decoration: underline;
 }
 
@@ -85,9 +85,9 @@
 	height: auto;
 }
 .logpage button {
-	background-color: #4CAF50; /* Green */
+	background-color: AliceBlue; /* Green */
 	border: none;
-	color: white;
+	color: CornflowerBlue;
 	margin-top: 10px;
 	padding: 10px 32px;
 	text-align: center;
