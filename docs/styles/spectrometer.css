@@ -1,10 +1,10 @@
 .logpage {
 	font-family: Annie Use Your Telescope, serif;
 	font-size: 100%;
-   	background-color: LightCyan;
-   	color: LightCyan;
-	margin: 5px;
-   	padding: 5px;
+   	background-color: DarkSlateBlue;
+   	color: DarkSlateBlue;
+	margin: 100px;
+   	padding: 50px;
 }
 
 .logpage a:link a:visited a:active {
@@ -13,12 +13,12 @@
 }
 
 .logpage a:hover {
-	color: LightCyan;
+	color: DarkSlateBlue;
 	text-decoration: underline;
 }
 
 .logpage hr {
-	border: 1px solid #4CAF50;
+	border: 10px solid RebeccaPurple;
 }
 
 .logpage table {
@@ -30,15 +30,15 @@
 	margin: 5px;
 	vertical-align: top;
 	border: 1px solid #999;
-	background-color: #EEEEEE;
+	background-color: #b794f7;
 	text-align: left;
 }
 
 .logpage th {
 	height: 5%;
 	font-weight: normal;
-	color: #000000;
-	background-color: #E0E0E0;
+	color: RebeccaPurple;
+	background-color: Lavender;
 }
 
 .logpage h1 {
@@ -51,7 +51,7 @@
 	font-size: 125%;
 	text-align: center;
 	color: #FFFFFF;
-	background-color: #4CAF50;
+	background-color: Black;
 	padding: 8px;
 }
 
@@ -68,7 +68,7 @@
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #FFFFFF;
+	background-color: DarkSlateBlue;
 	width: 95%;
 }
 
@@ -76,7 +76,7 @@
 	font-size: 110%;
 	text-align: center;
 	color: #000055;
-	background-color: #DDDDDD;
+	background-color: RebeccaPurple;
 	padding: 10px;
 }
 
@@ -85,22 +85,22 @@
 	height: auto;
 }
 .logpage button {
-	background-color: AliceBlue; /* Green */
+	background-color: Black; /* Green */
 	border: none;
-	color: CornflowerBlue;
+	color: #b872ed;
 	margin-top: 10px;
 	padding: 10px 32px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 #searchInput {
   width: 100%;
   font-size: 16px;
   padding: 12px;
-  border: 1px solid #ddd;
+  border: 1px solid DarkSlateBlue;
   margin-bottom: 12px;
   margin-top: 12px;
 }
